@@ -73,6 +73,14 @@ const Header = () => {
                 {link.label}
               </a>
             ))}
+            <a
+              href="https://donate.stripe.com/5kQaEZfHy7Ao7LZ0j6bAs00"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-5 py-2 bg-heritage-gold text-primary font-body font-semibold text-sm tracking-wider uppercase rounded-sm hover:opacity-90 transition-opacity"
+            >
+              Give
+            </a>
           </nav>
 
           {/* Mobile Menu Button */}
@@ -111,6 +119,14 @@ const Header = () => {
                   {link.label}
                 </a>
               ))}
+              <a
+                href="https://donate.stripe.com/5kQaEZfHy7Ao7LZ0j6bAs00"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center px-5 py-2.5 mt-2 bg-heritage-gold text-primary font-body font-semibold text-sm tracking-wider uppercase rounded-sm hover:opacity-90 transition-opacity"
+              >
+                Give
+              </a>
             </nav>
           </motion.div>
         )}

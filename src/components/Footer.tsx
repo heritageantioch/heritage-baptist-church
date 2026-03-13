@@ -1,4 +1,4 @@
-import { Youtube } from "lucide-react";
+import { Youtube, Heart } from "lucide-react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -72,6 +72,15 @@ const Footer = () => {
               >
                 <Youtube size={16} />
                 Watch Sermons
+              </a>
+              <a
+                href="https://donate.stripe.com/5kQaEZfHy7Ao7LZ0j6bAs00"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 hover:text-heritage-gold transition-colors"
+              >
+                <Heart size={16} />
+                Give Online
               </a>
             </div>
           </div>
