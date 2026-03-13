@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 //updated to use GitActions
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/heritage-baptist-church/",
+  base: "/",
   server: {
     host: "::",
     port: 8080,
