@@ -57,7 +57,7 @@ const Footer = () => {
             <h4 className="font-body text-sm font-semibold tracking-wider uppercase mb-4 text-heritage-gold">
               Connect
             </h4>
-            <div className="font-body text-sm text-primary-foreground/60 space-y-3">
+            <div className="font-body text-sm text-primary-foreground/60 space-y-5">
               <a
                 href="mailto:pastorevan@heritagebaptistacademy.com"
                 className="block hover:text-heritage-gold transition-colors break-all"
