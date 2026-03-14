@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
-import auditoriumFlowers from "@/assets/auditorium-flowers.jpg";
+import churchFamily from "@/assets/church-family.jpg";
 
 const WhyHeritageSection = () => {
   const ref = useRef(null);
@@ -19,8 +19,8 @@ const WhyHeritageSection = () => {
           >
             <div className="aspect-[4/3] overflow-hidden rounded-sm">
               <img
-                src={auditoriumFlowers}
-                alt="Heritage Baptist Church sanctuary"
+                src={churchFamily}
+                alt="Family in front of Heritage Baptist Church &amp; Academy"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />

@@ -1,13 +1,13 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
-import auditoriumFlowers from "@/assets/auditorium-flowers.jpg";
+import churchFamily from "@/assets/church-family.jpg";
 import coffeeFellowship from "@/assets/coffee-fellowship.jpg";
-import pulpitEaster from "@/assets/pulpit-easter.jpg";
+import congregationPsalm from "@/assets/congregation-psalm.jpg";
 
 const photos = [
-  { src: auditoriumFlowers, alt: "Church sanctuary with flowers" },
+  { src: churchFamily, alt: "Family in front of Heritage Baptist Church" },
   { src: coffeeFellowship, alt: "Welcome area with coffee and fellowship" },
-  { src: pulpitEaster, alt: "Pulpit decorated for Easter celebration" },
+  { src: congregationPsalm, alt: "Congregation worshipping together" },
 ];
 
 const PhotoStrip = () => {

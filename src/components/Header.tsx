@@ -74,7 +74,7 @@ const Header = () => {
               </a>
             ))}
             <a
-              href="https://donate.stripe.com/5kQaEZfHy7Ao7LZ0j6bAs00"
+              href="https://forms.ministryforms.net/embed.aspx?formId=e9132e67-1d8e-4c8a-8ae8-7388b81cd3b5"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2 bg-heritage-gold text-primary font-body font-semibold text-sm tracking-wider uppercase rounded-sm hover:opacity-90 transition-opacity"
@@ -120,7 +120,7 @@ const Header = () => {
                 </a>
               ))}
               <a
-                href="https://donate.stripe.com/5kQaEZfHy7Ao7LZ0j6bAs00"
+                href="https://forms.ministryforms.net/embed.aspx?formId=e9132e67-1d8e-4c8a-8ae8-7388b81cd3b5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-5 py-2.5 mt-2 bg-heritage-gold text-primary font-body font-semibold text-sm tracking-wider uppercase rounded-sm hover:opacity-90 transition-opacity"
